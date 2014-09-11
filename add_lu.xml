@@ -14,32 +14,32 @@
             <Atom/>
         </Metadata>
         <JobParameter schemaVersion="V1_0">
-<Metadata>
-<Atom/>
-</Metadata>
-<ParameterName kb="ROR" kxe="false">LUName</ParameterName>
-<ParameterValue kxe="false" kb="CUR">newLU1</ParameterValue>
-</JobParameter>
-<JobParameter schemaVersion="V1_0">
-<Metadata>
-<Atom/>
-</Metadata>
-<ParameterName kb="ROR" kxe="false">LUSize</ParameterName>
-<ParameterValue kxe="false" kb="CUR">18</ParameterValue>
-</JobParameter>
-<JobParameter schemaVersion="V1_0">
-<Metadata>
-<Atom/>
-</Metadata>
-<ParameterName kb="ROR" kxe="false">LUType</ParameterName>
-<ParameterValue kxe="false" kb="CUR">THIN</ParameterValue>
-</JobParameter>
-<JobParameter schemaVersion="V1_0">
-<Metadata>
-<Atom/>
-</Metadata>
-<ParameterName kb="ROR" kxe="false">DeviceType</ParameterName>
-<ParameterValue kxe="false" kb="CUR">VirtualIO_Disk</ParameterValue>
-</JobParameter>
+            <Metadata>
+                <Atom/>
+            </Metadata>
+            <ParameterName kb="ROR" kxe="false">LUName</ParameterName>
+            <ParameterValue kxe="false" kb="CUR">newLU10</ParameterValue>
+        </JobParameter>
+        <JobParameter schemaVersion="V1_0">
+            <Metadata>
+                <Atom/>
+            </Metadata>
+            <ParameterName kb="ROR" kxe="false">LUSize</ParameterName>
+            <ParameterValue kxe="false" kb="CUR">18</ParameterValue>
+        </JobParameter>
+        <JobParameter schemaVersion="V1_0">
+            <Metadata>
+                <Atom/>
+            </Metadata>
+            <ParameterName kb="ROR" kxe="false">LUType</ParameterName>
+            <ParameterValue kxe="false" kb="CUR">THIN</ParameterValue>
+        </JobParameter>
+        <JobParameter schemaVersion="V1_0">
+            <Metadata>
+                <Atom/>
+            </Metadata>
+            <ParameterName kb="ROR" kxe="false">DeviceType</ParameterName>
+            <ParameterValue kxe="false" kb="CUR">VirtualIO_Disk</ParameterValue>
+        </JobParameter>
     </JobParameters>
 </JobRequest:JobRequest>
